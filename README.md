@@ -8,3 +8,4 @@
 -Download Arduino Voice Control Android app and connect the phone with the pc using bluetooth.
 -Run the simulation.
 
+
