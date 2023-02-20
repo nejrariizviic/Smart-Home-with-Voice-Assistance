@@ -10,7 +10,7 @@
 
 -Open project in Proteus.
 
--Paste the path in Arduino Mega and select hex paths of PIR, Water and Gas sensors from LIBRARY folder.
+-Paste the path in Arduino Mega and select hex paths of PIR, Water and Gas sensors from Libraries folder.
 
 -Download Arduino Voice Control Android app and connect the phone with the pc using bluetooth.
 
