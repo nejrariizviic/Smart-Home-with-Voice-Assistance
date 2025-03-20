@@ -41,27 +41,27 @@ To set up and run the project, ensure you have the following software installed:
 
 3. Working with Proteus
 
-- Open the project in Proteus.
+   - Open the project in Proteus.
 
-- Paste the previously copied hex file path into the Arduino Mega component in Proteus.
+   - Paste the previously copied hex file path into the Arduino Mega component in Proteus.
 
-- Load the hexadecimal paths for the PIR sensor, water sensor, and gas sensor from the Libraries directory.
+   - Load the hexadecimal paths for the PIR sensor, water sensor, and gas sensor from the Libraries directory.
 
 4. Voice Control via Android App
 
-- Download the Arduino Voice Control application on your Android device.
+   - Download the Arduino Voice Control application on your Android device.
 
-- Connect your phone to the system using a Bluetooth connection.
+   - Connect your phone to the system using a Bluetooth connection.
 
-- Open the app and pair it with the system.
+   - Open the app and pair it with the system.
 
 5. Running the Simulation
 
-- Start the simulation in Proteus and test voice commands.
+   - Start the simulation in Proteus and test voice commands.
 
-- Observe system responses and automated functionalities.
+   - Observe system responses and automated functionalities.
 
-- Adjust and fine-tune the system for optimal performance.
+   - Adjust and fine-tune the system for optimal performance.
 
 ## Key System Features
 
