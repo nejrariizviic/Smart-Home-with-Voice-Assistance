@@ -25,9 +25,9 @@ To set up and run the project, ensure you have the following software installed:
 
 1. Download and Configuration
 
-- Download the project zip file and extract it.
+   - Download the project zip file and extract it.
 
-- Install Arduino IDE and Proteus 8 Professional if they are not already installed.
+   - Install Arduino IDE and Proteus 8 Professional if they are not already installed.
 
 2. Working with Arduino IDE
 
