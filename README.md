@@ -64,7 +64,6 @@ To set up and run the project, ensure you have the following software installed:
 
    - Observe system responses and automated functionalities.
 
-   - Adjust and fine-tune the system for optimal performance.
 
 ## Key System Features
 
