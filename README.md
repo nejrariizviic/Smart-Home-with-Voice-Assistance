@@ -1,5 +1,8 @@
 # Smart Home with Voice Assistance
 
+The Smart Home with Voice Assistance is an innovative solution that enables the automation of everyday activities at home through simple voice commands. The goal of this project is to create an integrated system that allows users to easily and efficiently control household appliances, thereby enhancing comfort, security, and energy efficiency at home.
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Required Tools](#required-tools)
