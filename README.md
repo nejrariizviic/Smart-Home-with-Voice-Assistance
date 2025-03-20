@@ -31,13 +31,13 @@ To set up and run the project, ensure you have the following software installed:
 
 2. Working with Arduino IDE
 
-- Open the file smart_home_code.ino in Arduino IDE.
+   - Open the file smart_home_code.ino in Arduino IDE.
 
-- Select Arduino Mega 2560 from the Tools > Board menu.
+   - Select Arduino Mega 2560 from the Tools > Board menu.
 
-- Click Verify to compile the code.
+   - Click Verify to compile the code.
 
-- Copy the hex file path from the output window.
+   - Copy the hex file path from the output window.
 
 3. Working with Proteus
 
