@@ -67,22 +67,22 @@ To set up and run the project, ensure you have the following software installed:
 
 ## Key System Features
 
-- Voice-Controlled Automation – Enables interaction through voice commands.
+- Voice-Controlled Automation – enables interaction through voice commands.
 
-- Motion Sensor (PIR) – Turns on lights when motion is detected.
+- Motion Sensor (PIR) – turns on lights when motion is detected.
 
-- Water Sensor – Detects water leaks and triggers alerts.
+- Water Sensor – detects water leaks and triggers alerts.
 
-- Gas Sensor – Identifies gas presence and activates an alarm.
+- Gas Sensor – identifies gas presence and activates an alarm.
 
-- Bluetooth Communication – Connects the system to an Android app.
+- Bluetooth Communication – connects the system to an Android app.
 
 ## Future Improvements
 
-- Wi-Fi Integration – Allowing remote control via the internet.
+- Wi-Fi Integration – allowing remote control via the internet.
 
-- Advanced AI Voice Recognition – Expanding command processing capabilities.
+- Advanced AI Voice Recognition – expanding command processing capabilities.
 
-- IoT Cloud Integration – Real-time monitoring and analytics.
+- IoT Cloud Integration – real-time monitoring and analytics.
 
 
