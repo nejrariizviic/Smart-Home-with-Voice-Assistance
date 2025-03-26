@@ -2,6 +2,11 @@
 
 The Smart Home with Voice Assistance is an innovative solution that enables the automation of everyday activities at home through simple voice commands. The goal of this project is to create an integrated system that allows users to easily and efficiently control household appliances, thereby enhancing comfort, security, and energy efficiency at home.
 
+## Smart Home System Circuit Diagram
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nejrariizviic/Smart-Home-with-Voice-Assistance/refs/heads/main/Uploads/image.jpg" alt="Shema">
+</p>
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
